@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ColorChange</string>
+    <string name="colora">colorA</string>
+    <string name="colorb">colorB</string>
+    <string name="colorc">colorC</string>
+    <string name="colord">colorD</string>
+    <string name="colore">colorE</string>
+    <string name="colorf">colorF</string>
+    <string name="colorg">colorG</string>
+    <string name="colorh">colorH</string>
+    <string name="colorJ">colorJ</string>
+    <string name="colorM">colorM</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
