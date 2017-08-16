@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TopMovie2016</string>
+
+    <string-array name="Title_Movie">
+        <item>The Mountain II </item>
+        <item>Boyka: Undisputed</item>
+        <item>Arrival</item>
+        <item>Wolyn</item>
+        <item>Hacksaw Ridge</item>
+        <item>Florence Foster Jenkins</item>
+        <item>Deadpool</item>
+        <item>Land of Mine</item>
+        <item>Sairat</item>
+        <item>Captain Fantastic</item>
+    </string-array>
+
+    <string-array name="Rating_movies">
+        <item>Rating: 9.4/10 </item>
+        <item>Rating: 8.6/10 </item>
+        <item>Rating: 8.2/10 </item>
+        <item>Rating: 7.8/10 </item>
+        <item>Rating: 7.4/10 </item>
+        <item>Rating: 7.0/10 </item>
+        <item>Rating: 6.6/10 </item>
+        <item>Rating: 6.4/10 </item>
+        <item>Rating: 6.2/10 </item>
+        <item>Rating: 6.0/10 </item>
+    </string-array>
+</resources>
